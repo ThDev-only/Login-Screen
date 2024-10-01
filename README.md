@@ -19,7 +19,7 @@ This repository contains a basic login screen project, created entirely in **Kot
 
 ## Screenshot
 
-[Add the link or screenshot of the login screen here]
+![Login Screen](https://github.com/ThDev-only/Login-Screen/blob/main/images/image1.png)
 
 ## How to Run
 
