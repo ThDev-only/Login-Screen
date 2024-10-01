@@ -17,7 +17,7 @@ Este repositório contém um projeto básico de uma tela de login, criado totalm
 
 ## Screenshot
 
-[Adicione aqui o link da imagem ou screenshot da tela de login]
+![Login Screen](https://github.com/ThDev-only/Login-Screen/blob/main/images/image1.png)
 
 ## Como Executar
 
